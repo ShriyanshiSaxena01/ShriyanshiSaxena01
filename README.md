@@ -1,13 +1,14 @@
-👋 Hi, I’m @ShriyanshiSaxena01
-👀 I’m interested in UI/UX design, front-end development, and creating innovative tech solutions.
-🌱 I’m currently learning Java Fullstack, advanced Figma, and exploring freelancing opportunities.
-💞️ I’m looking to collaborate on UX-focused projects, innovative app designs, and web development.
-📫 How to reach me:
-LinkedIn: [https://www.linkedin.com/in/shriyanshi-saxena-53b22829b/](https://www.linkedin.com/in/shriyanshi-saxena-53b22829b/)
-Behance: [behance.net/shriyanshisaxena](https://www.behance.net/shriyansaxena01)
-😄 Pronouns: She/Her
-⚡ Fun fact: I’m a miniature maker and co-founder of Ambio, with completed projects like Wizardwee and ongoing ones like ORDO.
-<!---
-ShriyanshiSaxena01/ShriyanshiSaxena01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I'm @ShriyanshiSaxena01
+
+- 👀 **I'm interested in:** Data Analytics, UI/UX Design, and transforming data into meaningful insights.
+- 🌱 **I'm currently learning:** Data Analytics, starting with Microsoft Excel and gradually building skills in SQL, Power BI, and Python.
+- 📊 **My current focus:** Developing analytical skills, working with datasets, understanding data visualization, and documenting my learning journey on GitHub.
+- 💻 **My background:** BCA graduate with experience in UI/UX Design and Front-End Development.
+- 💞️ **I'm looking to collaborate on:** Beginner-friendly Data Analytics projects, data visualization, dashboards, and creative tech solutions.
+- 📫 **How to reach me:**
+  - LinkedIn: [Connect with me](https://www.linkedin.com/in/shriyanshi-saxena-53b22829b/)
+  - Behance: [View my design portfolio](https://www.behance.net/shriyansaxena01)
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I'm a miniature maker who loves combining creativity, technology, and problem-solving.
+
+✨ **Currently on a journey from Design to Data Analytics — learning, practicing, and growing one skill at a time!**
